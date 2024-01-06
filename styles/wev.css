@@ -104,6 +104,13 @@ width: 500px;
     size: 100px;
 }
   /* main section styles */
+  .main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+
+
+  }
   /* about section styles */
   .about{
 
@@ -113,3 +120,8 @@ width: 500px;
     margin: 130px;
 
   }
+  .about-info-container{
+    display: flex;
+    justify-content: space-around;
+  }
+  
