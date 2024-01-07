@@ -7,7 +7,7 @@ font-family: 'Open Sans', sans-serif;
 
 }
 .text-primary{
-    color: #FD6E0A;
+    color: #FD6E0a;
 
 }
 /* nav related style */
@@ -124,4 +124,8 @@ width: 500px;
     display: flex;
     justify-content: space-around;
   }
-  
+  #what-i-do-description{
+        padding: 30px 150px;
+
+  }
+                                                       
